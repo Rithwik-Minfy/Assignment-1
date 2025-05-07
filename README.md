@@ -53,7 +53,11 @@ I have provided the screen shot for these above.
 **Explanation:**
 
 In the repository created in Assignment-1 created README.md using the GitHub Web Interface
+
 Pulled the changes to local repository
+
 Then created a new branch feature/update-readme
+
 Afterwards changed the README.md and pushed the branch to GitHub.
+
 Finally Created a pull request from "feature/update-readme" to main branch and then reviewed and merged the pull request.
